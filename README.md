@@ -20,6 +20,10 @@ pip install uvicorn
 uvicorn app:app --reload
 ```
 
+```
+Visit /docs route for Swagger documentation.
+```
+
 <h3 align="center">
   Made & open-sourced with ❤️ by <a href="https://www.kartikmehta.xyz">kartikmehta8</a>
 </h3>
